@@ -1,2 +1,0 @@
-# BibliotecaFup
-aplicacion
